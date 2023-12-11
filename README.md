@@ -1,3 +1,3 @@
 # AyED-1
-Introducción a programación funcional (Haskell) y programación imperativa (C).
-Los primeros dos proyectos son del lenguaje Haskell. Los ultimos dos proyectos de C.
+Introduction to functional programming (Haskell) and imperative programming (C). 
+The first two projects are in the Haskell language. The last two projects are in C language.
